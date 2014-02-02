@@ -29,11 +29,11 @@ Refers to the text of the novel attributed to V.M. Straka, *Ship Of Theseus* and
 
 > S.
 
-Refers to the fictional **character** S. from *Ship Of Theseus*.
+Refers to the fictional character S. from *Ship Of Theseus*.
 
 > "S."
 
-Refers to the novel titled "*S.*" written by J.J. Abrams and Doug Dorst, including all artifacts, marganalia, etc.
+Refers to the novel titled "*S.*" written by J.J. Abrams and Doug Dorst, including all artifacts, marginalia, etc.
 
 > the Symbol
 
